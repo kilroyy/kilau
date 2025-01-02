@@ -149,7 +149,7 @@
                 <div class="col-sm-12 d-flex justify-content-between flex-wrap">
                     <div class="col-sm-5 mt-4 me-4">
                         <div class="d-flex">
-                            <img src="/image/MM.png" alt="rusak" class="all-image img-fluid rounded-circle me-4">
+                            <img src="/image/m1.png" alt="rusak" class="all-image img-fluid rounded-circle me-4">
                             <div class="theText">
                                 <span class="h5 fw-bold text-uppercase">Deep Cleaning</span>
                                 <p class="text-muted">Metode pembersihan sepatu yang dilakukan secara menyeluruh dan instensif</p>
