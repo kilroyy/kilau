@@ -158,7 +158,7 @@
                     </div>
                     <div class="col-sm-5 mt-4 ">
                         <div class="d-flex">
-                            <img src="/image/M.png" alt="rusak" class="all-image img-fluid rounded-circle me-4">
+                            <img src="/image/m2.png" alt="rusak" class="all-image img-fluid rounded-circle me-4">
                             <div class="theText">
                                 <span class="h5 fw-bold text-uppercase">Express Deep Cleaning</span>
                                 <p class="text-muted">Layanan pencucian sepatu secara menyeluruh yang dilakukan dalam waktu 24 jam</p>
@@ -167,7 +167,7 @@
                     </div>
                     <div class="col-sm-5 mt-4 me-4">
                         <div class="d-flex">
-                            <img src="/image/M.png" alt="rusak" class="all-image img-fluid rounded-circle me-4">
+                            <img src="/image/m3.png" alt="rusak" class="all-image img-fluid rounded-circle me-4">
                             <div class="theText">
                                 <span class="h5 fw-bold text-uppercase">Unyellowing</span>
                                 <p class="text-muted">Perawatan pada bagian midsole yang telah menguning untuk menghilangkan warna kuning menjadi semula tanpa harus di repaint</p>
